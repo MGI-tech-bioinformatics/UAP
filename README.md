@@ -8,7 +8,7 @@ Version: 1.1.0
 Function:  
 
 	a.Split Duplex UMI with PE fastq files.  
-	b.Calls consensus sequences from reads with the same unique molecular tag and applies sequencing error correction with unique molecular tag.  
+	b.Calls consensus sequences from reads with the same unique molecular tag and corrects the sequencing error with unique molecular tag. 
 	c.Calculates error rate from aligned bam file.  
 
 Environment:linux  
