@@ -18,7 +18,7 @@ Help information:run UAP in command line will get detailed information
 
 To clone the repository:  
 
-	git clone https://github.com/meizhiying/UAP.git
+	git clone https://github.com/MGI-tech-bioinformatics/UAP.git
 
 Installation command line:  
 
